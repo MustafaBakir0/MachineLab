@@ -5,7 +5,7 @@
 
 I just enrolled in the class. I had to miss the first lecture because I enrolled after the first lecture took place. 
 
-## 01/02/2026
+### 01/02/2026
 
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/f492f3ed-07c9-4c28-a8b3-053931a3cfdf" />
 
@@ -13,3 +13,10 @@ I personally hate resistors, so I used an internal pull up resistor to avoid usi
 
 https://github.com/MustafaBakir0/MachineLab/blob/main/servowithbutton..ino
 https://github.com/MustafaBakir0/MachineLab/blob/main/servowithpot.ino
+
+
+
+## Homework 2
+
+Here's my moodboard
+<img width="1333" height="1999" alt="MINECRAFT" src="https://github.com/user-attachments/assets/6d8aeba7-aea3-40db-b6d1-8d345ac1f6e5" />
