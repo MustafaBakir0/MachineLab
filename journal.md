@@ -51,3 +51,10 @@ For the fourth project, the gluinng was bad in my opinion, a lot of things were 
 For the last project, MISSED OPPORTUNITY. they really could have made their neopixels in the fireworks flash, but they stay as a constant color.also the ferris where doesn't rotate anymore but I love the project honestly. I saw in one of the ferris wheel cabins a couple kissing and thats a cute detail to add. overall I like this project but they also had really bad gluing.
 
 ## Homework 4
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/7ce204e4-60ed-4cd7-b20d-68597215acc6" />
+
+The first mechanism is two conveyer strings attached to two wheeels that spin using motors. Two strings come out of those to create an effect of a zombie chasing a villager and they follow the path of the wheels.
+
+The second is a simple rotating pickaxe mounted on a servo motor.
+
+The third is a pulley attached to a motor that opens and shuts a trapdoor. I want to have this because I want to create layers. the first layer is the overworld. the second is a cave. and the third is the underworld.
