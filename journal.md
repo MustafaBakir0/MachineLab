@@ -58,3 +58,22 @@ The first mechanism is two conveyer strings attached to two wheeels that spin us
 The second is a simple rotating pickaxe mounted on a servo motor.
 
 The third is a pulley attached to a motor that opens and shuts a trapdoor. I want to have this because I want to create layers. the first layer is the overworld. the second is a cave. and the third is the underworld.
+
+
+
+## Homework 5 - V8 Engine Mechanism
+
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/2f595460-1488-45b3-8d16-2dbc04d12793" />
+
+
+We finally started working on our first mechanism for the need for speed project. We 3D printed a V8 cylinder engine, and honestly it took us a few tries to get it right.
+Our initial print didn't work because we messed around with the scale a little bit. The proportions were off and the pistons didn't fit into the cylinders properly at all. We went back, adjusted the scale, and reprinted everything. The last print actually worked and we were really happy with how it came out. It's funny because the fix was so simple but we spent a while just staring at the first failed print trying to figure out what went wrong before we realized it was just the sizing.
+The engine has a full crank and shaft system with piston heads that move up and down to mimic how a real engine looks when it's running. Seeing all eight pistons fire in sequence is so satisfying, it genuinely looks like a real engine. We connected the pistons to the crankshaft and the whole system moves together, which is the part we were most unsure about going into this. We weren't sure if the tolerances would be tight enough for everything to actually mesh and move the way it should, but it did.
+
+Fabrication was our biggest worry going into this project and this was honestly a good confidence boost. If we can get a V8 engine working on the first week of building, the rest should be manageable. We're excited to keep going.
+
+ im glad i changed my project idea and going for need for speed instead. 
+The V8 engine we printed fits perfectly into this new direction. In Need for Speed the whole aesthetic is fast cars, neon lights, garages, and racing culture, and our engine mechanism already looks the part. We're thinking about building around that, like having the engine as a centerpiece with other elements around it that sell the Need for Speed world.
+We're still early in figuring out what the full project looks like but the direction feels a lot more exciting. The Minecraft idea was fun on paper but the fabrication was going to be tricky and the theme was honestly a little all over the place. Need for Speed gives us a cleaner visual language to work with, everything is cars and speed and that's it. It's focused.
+We're going to start thinking about what other mechanisms make sense for this theme. A rotating car, tire elements, maybe neon lighting with neopixels to sell the nighttime garage vibe. The music situation that was worrying us with Minecraft is also solved because Need for Speed has iconic soundtracks that would really really stand out and set the mood immediately. We're genuinely more excited about this direction and we think it's going to come together better than the original idea.
