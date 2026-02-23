@@ -83,7 +83,7 @@ We're going to start thinking about what other mechanisms make sense for this th
 ## Midterm progress
 
 We decided to make a V8 or a V4 engine and put it inside of a half-car with the hood open. the car would be in a garage so it wouldn't show that it's only half a car. I am very excited for the fabrication of the car because we will use neopixels with diffusers and I love working with neopixels as I am quite experienced with them having worked with strips and neopixel matrices before. The idea of the whole project is to have the garage in the bakcground with th car inside of it and a small round track in front of the car with half of the road rotating so we can stick mini hot-wheel like cars on it so they look like they are racing. we also want to have another car parked in next to the track which will be a bigger car and we will create a mechanism using two wheels and a pulley inside the car to make the tires appear moving.
-<img width="521" height="632" alt="image" src="https://github.com/user-attachments/assets/70dfc5f2-c2a4-4dee-ba89-030505dd7850" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/2c22818c-9fd4-4ad6-8d7d-437bfab30975" />
 
 
 We tried starting with the garage by making a prototype by trying to saw some plywood but honestly that took ages and we stopped mid way. We decided using a laser cutter is easier and we waited for the nexxt day to do that because we had to book the cutter 1 hour in advance and honestly this whole thing with connect2 having to book things 1 hour in advance is just annoying and doesn't make sense but oh well thats life.
