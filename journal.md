@@ -77,3 +77,14 @@ Fabrication was our biggest worry going into this project and this was honestly 
 The V8 engine we printed fits perfectly into this new direction. In Need for Speed the whole aesthetic is fast cars, neon lights, garages, and racing culture, and our engine mechanism already looks the part. We're thinking about building around that, like having the engine as a centerpiece with other elements around it that sell the Need for Speed world.
 We're still early in figuring out what the full project looks like but the direction feels a lot more exciting. The Minecraft idea was fun on paper but the fabrication was going to be tricky and the theme was honestly a little all over the place. Need for Speed gives us a cleaner visual language to work with, everything is cars and speed and that's it. It's focused.
 We're going to start thinking about what other mechanisms make sense for this theme. A rotating car, tire elements, maybe neon lighting with neopixels to sell the nighttime garage vibe. The music situation that was worrying us with Minecraft is also solved because Need for Speed has iconic soundtracks that would really really stand out and set the mood immediately. We're genuinely more excited about this direction and we think it's going to come together better than the original idea.
+
+
+
+## Midterm progress
+
+We decided to make a V8 or a V4 engine and put it inside of a half-car with the hood open. the car would be in a garage so it wouldn't show that it's only half a car. I am very excited for the fabrication of the car because we will use neopixels with diffusers and I love working with neopixels as I am quite experienced with them having worked with strips and neopixel matrices before. The idea of the whole project is to have the garage in the bakcground with th car inside of it and a small round track in front of the car with half of the road rotating so we can stick mini hot-wheel like cars on it so they look like they are racing. we also want to have another car parked in next to the track which will be a bigger car and we will create a mechanism using two wheels and a pulley inside the car to make the tires appear moving.
+<img width="521" height="632" alt="image" src="https://github.com/user-attachments/assets/70dfc5f2-c2a4-4dee-ba89-030505dd7850" />
+
+
+We tried starting with the garage by making a prototype by trying to saw some plywood but honestly that took ages and we stopped mid way. We decided using a laser cutter is easier and we waited for the nexxt day to do that because we had to book the cutter 1 hour in advance and honestly this whole thing with connect2 having to book things 1 hour in advance is just annoying and doesn't make sense but oh well thats life.
+![WhatsApp Image 2026-02-24 at 1 00 42 AM (1)](https://github.com/user-attachments/assets/27c46d0c-1cdf-4326-9243-514a5c79b431)
