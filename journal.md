@@ -88,3 +88,33 @@ We decided to make a V8 or a V4 engine and put it inside of a half-car with the 
 
 We tried starting with the garage by making a prototype by trying to saw some plywood but honestly that took ages and we stopped mid way. We decided using a laser cutter is easier and we waited for the nexxt day to do that because we had to book the cutter 1 hour in advance and honestly this whole thing with connect2 having to book things 1 hour in advance is just annoying and doesn't make sense but oh well thats life.
 ![WhatsApp Image 2026-02-24 at 1 00 42 AM (1)](https://github.com/user-attachments/assets/27c46d0c-1cdf-4326-9243-514a5c79b431)
+
+
+
+
+# Transition to online instruction
+
+## 07/04/2026
+I had my first individual meeting with professor michael on the 3rd of april. During this meeting, we explored options to move forward with projects for this class. We talked about available resources in Abu Dhabi and found Make which is near in the port area, relatively close to my house. I also epxressed interest in working with robotics stuff which is likely what I will be doing.
+
+Make Abu Dhabi has basically almost every machine I could need and a variety of scrap material I could use for prototying which are also free from my understanding. the membership fee is 300 Dh a month for students which is really good for our budget. I will need to complete basic assessments to use the equiptment and machines like soldering but the assessments are free and they also provide paid workshops if I need something like a CNC machine for example.
+
+My next steps will be settling on a project which I will reserach a little bit to find something interesting enough for both me and the professor to work on.
+
+## Project proposal
+This project is inspired both by the giant robotic found in professor michaels office that drags itself on the ground to move and also this youtube video
+[https://www.youtube.com/shorts/fipPXjG9ERs](https://www.youtube.com/shorts/fipPXjG9ERs)
+
+The approach I will take for this is to prototype each joint of the robotic arm first with cardboard. The approach I am thinking of is working on joints in a stack / LIFO manner (this is the first analogy that came to my head).
+
+for example: 
+Base servo -> code
+then
+Servo joint into carboard -> code -> calibrate values
+then
+Servo joint into carboard -> code -> calibrate values
+so on until I create the movement I want.
+
+then I will attach an arduino or a piece of cardboard and might need a shield for the servos. I will then insert a wooden stick through the piece of cardboard and stick wheels to it and make sure everything is sturdy and try to move it with hand. then I will glue a piece of wood to the cardboard piece and drill holes for the to screw the servos on the wooden base then I will test the movements all together.
+
+Thats it for the prototype, I plan on enhancing the aesthetics later but now I want to focus on the mechanism, then upgrade the materials, then comes the aesthetics.
