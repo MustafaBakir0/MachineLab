@@ -118,3 +118,9 @@ so on until I create the movement I want.
 then I will attach an arduino or a piece of cardboard and might need a shield for the servos. I will then insert a wooden stick through the piece of cardboard and stick wheels to it and make sure everything is sturdy and try to move it with hand. then I will glue a piece of wood to the cardboard piece and drill holes for the to screw the servos on the wooden base then I will test the movements all together.
 
 Thats it for the prototype, I plan on enhancing the aesthetics later but now I want to focus on the mechanism, then upgrade the materials, then comes the aesthetics.
+
+### resources
+
+[https://www.amazon.ae/EKIND-Universal-Furniture-Appliance-Lightweight/dp/B0FVF9V6BT/ref=sr_1_9?crid=2MHIPTLQ1ZIO4&dib=eyJ2IjoiMSJ9.wEyNHf_559TI6jH3C0N5pyGPt_zclg1cGaPXC_EY3jB2s7XmdtcearGE-6ICZLggP4gYvGf-AVS04vHA75AFlF9lamN-LnAnZSIjNfoj1OQFVf6ILs8V8-UcnvhI_2H_BzVzDCx7kACEdfbr_CMjXFp7SIhIMe96kmsfBh8Wq6geO1Qr4JVMErPwQPoS16gV2XEL8kN5QTWLUx8aEZdKFdRkKF52E9xbZjuuYl_B95ZMUI6LkjU2NMppi9UwcaDsqd044MgPjyUXBt9aMpXXxM1SKixWnXA3B1aire6k0WE.1UXayq3ZtVFCvupcDtvtRmZpk4v2OKLX4olLYjsFUzQ&dib_tag=se&keywords=small+caster+wheels&qid=1775843012&sprefix=small+caster+wheels%2Caps%2C232&sr=8-9](url)
+
+[https://www.amazon.ae/gp/bestsellers/toys/12123482031/ref=pd_zg_hrsr_toys](url)
