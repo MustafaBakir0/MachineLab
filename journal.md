@@ -124,3 +124,14 @@ Thats it for the prototype, I plan on enhancing the aesthetics later but now I w
 [https://www.amazon.ae/EKIND-Universal-Furniture-Appliance-Lightweight/dp/B0FVF9V6BT/ref=sr_1_9?crid=2MHIPTLQ1ZIO4&dib=eyJ2IjoiMSJ9.wEyNHf_559TI6jH3C0N5pyGPt_zclg1cGaPXC_EY3jB2s7XmdtcearGE-6ICZLggP4gYvGf-AVS04vHA75AFlF9lamN-LnAnZSIjNfoj1OQFVf6ILs8V8-UcnvhI_2H_BzVzDCx7kACEdfbr_CMjXFp7SIhIMe96kmsfBh8Wq6geO1Qr4JVMErPwQPoS16gV2XEL8kN5QTWLUx8aEZdKFdRkKF52E9xbZjuuYl_B95ZMUI6LkjU2NMppi9UwcaDsqd044MgPjyUXBt9aMpXXxM1SKixWnXA3B1aire6k0WE.1UXayq3ZtVFCvupcDtvtRmZpk4v2OKLX4olLYjsFUzQ&dib_tag=se&keywords=small+caster+wheels&qid=1775843012&sprefix=small+caster+wheels%2Caps%2C232&sr=8-9](url)
 
 [https://www.amazon.ae/gp/bestsellers/toys/12123482031/ref=pd_zg_hrsr_toys](url)
+
+
+## 16/04/2026
+
+I ordered the parts that I need and I will be documenting my journey 
+
+
+[I also found this awesome mdoel that I probably will be using for this project]([url](https://cults3d.com/en/3d-model/gadget/grippy-bot))
+<img width="1233" height="807" alt="image" src="https://github.com/user-attachments/assets/0b1c3fc7-e564-4a0d-816a-6f61c031af27" />
+
+I will utilize the makerspace's 3d printer to print this mdoel
