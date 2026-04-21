@@ -135,3 +135,19 @@ I ordered the parts that I need and I will be documenting my journey
 <img width="1233" height="807" alt="image" src="https://github.com/user-attachments/assets/0b1c3fc7-e564-4a0d-816a-6f61c031af27" />
 
 I will utilize the makerspace's 3d printer to print this mdoel
+
+## 21/04/2026
+
+I went to campus and got the parts that I am going to need which are:
+- A handful of servos
+- a breadboard
+- Zip ties
+- some servo horns
+
+And I orderd cardboard, wires, and some other tools to help me with the prototyping like scissors and a screwdriver.
+
+I started with prototyping but the problem is I got high torque servos instead of microservos which could be a mistake because those servos are actually heavier than I excpectec. The cardboard I have is also literally too heavy and too light at the same time, I am still waiting on my shipment for the more reinforced cardboard because the oner I have right now is bending a lot.
+
+One temporary solotuin I found for this is to attach something straight and stiff to the cardboard attatchment to keep it upright, think of how some poeple attach metal rods to saplings to make them grow straight, I used pen caps to mimic the same idea.
+
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/1d23c1fd-3023-4922-9515-09ec556c3302" />
