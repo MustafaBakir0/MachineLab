@@ -148,6 +148,8 @@ And I orderd cardboard, wires, and some other tools to help me with the prototyp
 
 I started with prototyping but the problem is I got high torque servos instead of microservos which could be a mistake because those servos are actually heavier than I excpectec. The cardboard I have is also literally too heavy and too light at the same time, I am still waiting on my shipment for the more reinforced cardboard because the oner I have right now is bending a lot.
 
-One temporary solotuin I found for this is to attach something straight and stiff to the cardboard attatchment to keep it upright, think of how some poeple attach metal rods to saplings to make them grow straight, I used pen caps to mimic the same idea.
+I found a temporary fix for the bending. I started attaching something stiff and straight along the cardboard pieces to keep them upright, kind of like how people stake metal rods next to young saplings to make them grow straight. I used pen caps for this. It is a janky solution but it is working for now and it lets me keep moving until the better cardboard shows up.
+
+
 
 <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/1d23c1fd-3023-4922-9515-09ec556c3302" />
