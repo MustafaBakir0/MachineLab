@@ -150,4 +150,4 @@ I started with prototyping but the problem is I got high torque servos instead o
 
 One temporary solotuin I found for this is to attach something straight and stiff to the cardboard attatchment to keep it upright, think of how some poeple attach metal rods to saplings to make them grow straight, I used pen caps to mimic the same idea.
 
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/1d23c1fd-3023-4922-9515-09ec556c3302" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/1d23c1fd-3023-4922-9515-09ec556c3302" />
