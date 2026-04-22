@@ -119,6 +119,9 @@ then I will attach an arduino or a piece of cardboard and might need a shield fo
 
 Thats it for the prototype, I plan on enhancing the aesthetics later but now I want to focus on the mechanism, then upgrade the materials, then comes the aesthetics.
 
+
+
+
 ### resources
 
 [https://www.amazon.ae/EKIND-Universal-Furniture-Appliance-Lightweight/dp/B0FVF9V6BT/ref=sr_1_9?crid=2MHIPTLQ1ZIO4&dib=eyJ2IjoiMSJ9.wEyNHf_559TI6jH3C0N5pyGPt_zclg1cGaPXC_EY3jB2s7XmdtcearGE-6ICZLggP4gYvGf-AVS04vHA75AFlF9lamN-LnAnZSIjNfoj1OQFVf6ILs8V8-UcnvhI_2H_BzVzDCx7kACEdfbr_CMjXFp7SIhIMe96kmsfBh8Wq6geO1Qr4JVMErPwQPoS16gV2XEL8kN5QTWLUx8aEZdKFdRkKF52E9xbZjuuYl_B95ZMUI6LkjU2NMppi9UwcaDsqd044MgPjyUXBt9aMpXXxM1SKixWnXA3B1aire6k0WE.1UXayq3ZtVFCvupcDtvtRmZpk4v2OKLX4olLYjsFUzQ&dib_tag=se&keywords=small+caster+wheels&qid=1775843012&sprefix=small+caster+wheels%2Caps%2C232&sr=8-9](url)
@@ -153,3 +156,21 @@ I found a temporary fix for the bending. I started attaching something stiff and
 
 
 <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/1d23c1fd-3023-4922-9515-09ec556c3302" />
+
+
+## 22/04/2026
+
+So I bought a subscription to the makerspace and now I have access to wood and more tools that I can utilize for this project. 
+I was looking for some wood and didn't really have my expectations up just so I don't tunnel vision on something that I may not have and look here what I found. 
+
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/5ecc47f5-3369-4986-9e97-02e1bc8618ff" />
+
+So I immediately got the idea to cut some pieces and use them instead of what my peers suggested which is popsicle sticks. Which I still think would work brilliantly I just am more comfortable with working with this approach right now. I am also gonna 3d print the gripper and see how that's going to work for now.
+
+Here's an image of my workspace with the wood cut
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/ac3feef6-8231-408f-ab2c-e99427611f5f" />
+
+and I want to have more joins so I cam gonna segment one of the pieces more and cut it in half
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/7b717ef7-51b0-4dd5-bde1-d2dc7a62c1b7" />
+
+
