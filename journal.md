@@ -43,7 +43,7 @@ for the second project, the one with the horses, a lot of things were broken. Th
 The third project, the candy shop, I love the music. I would really like to know why one of the bunnies broke but I don't think it was a design issue. overall this project has the best fabrication, its really eye catching and really really well put together. One thing I like is their clever use of neopixels and using their sign as a diffuuser because neopixel lght can be very very very bright. I also like how they used the same wired for the first and the second sign, in contrast to the next project that we will cover in a bit
 
 
-<img width="300" height="400" alt"image" src="https://github.com/user-attachments/assets/403c5ca9-bc04-48b8-8881-122103e8131e" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/403c5ca9-bc04-48b8-8881-122103e8131e" />
 
 For the fourth project, the gluinng was bad in my opinion, a lot of things were unglued. But i really love the clouds, my biggest issue about this project is using a blllion wires for the neopixels, and the wires are all out and as a multimedia designer this really maeks me uncomfortable. each cloud had its own pin and its own 5 volts and ground wires, i really spend 2 days trying to figure out why that was needed and I still cant find the answer. I unfortuntely dont have a picture for the wires but u can zoom in on the picture and see.
 
