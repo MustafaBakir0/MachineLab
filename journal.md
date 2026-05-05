@@ -170,7 +170,41 @@ So I immediately got the idea to cut some pieces and use them instead of what my
 Here's an image of my workspace with the wood cut
 <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/ac3feef6-8231-408f-ab2c-e99427611f5f" />
 
+
+
 and I want to have more joins so I cam gonna segment one of the pieces more and cut it in half
 <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/7b717ef7-51b0-4dd5-bde1-d2dc7a62c1b7" />
 
+## 26/4/2026 & May 5 Homework
 
+
+So the last time i spoke with professor Michael Shiloh I was pretty stuck on what to do with my project and really with how to implement it and bring it to life. I had tried many solutions to make the robotic arm with the servos from the materials and tooks i had access to, moreover, I found a lot of tutrials online for robotic arms with servos but really none were going for a similar mechanism like the one I have. So i'm solo here, and honestly, its not too bad. I ran int oa lot of obstacles but genuinely working like this taught me a lot. and I mean A LOT. 
+
+I would like to start with the way i tried to attach the wooden pieces that are the arm joints to the servo horns. My first instict was, "Ha, drill this drill that." But I required training or an assessment to be able to the use teh drill at my makerspace. Don't get me wrong, I am familiar with drills, hell, I am very familiar with drills. Ask that little piece of skin between my thumb and my index finger, it has a lot to say. So that's not the problem. The problem was the assessments were foffered at very inconsistent timings and genuinely unpredictable to say the least, like I can easily pass the assesment but the roblem was getting my hands on the assessment haha.
+
+So I went the the option that I don't really like. Hot glue. See hot glue solves a lot of issues, TEMPORARLY. Like really, this piece of junk is the most temporary unserious solution ever, at least in my experience, I dont know if i am using it wrong or it genuinely just is not reliable cus the wway professor Michael talks about it it is indeed reliable. But im sorry abt the rant. So i tried to glue the horns on the wood but that posed another problem: If i glue the horns to the wood it would become impossible to screw them in the servo, and if I screw them in the servi it owuld become really tricky to try to stick the horns to the wood with providing continious stable controlled pushing of the horn onto the wood till the glue cools down. it just didnt work. i tried a lot. I ran through sticks and sticks of glue. Hell I even used zipties with the glue. it just kept on coming off. I talked to professor mcchael shiloh about this and he scolded me for not knowing that I should almost always screw the horn into the servo when I can, and honestly, I dont blame him, I really should have known that, especially with the experience that I have right now. But its okay. We live we love we learn. Moreover, he told me that i dont really need a drill to drill through the horns and inro the wood. I said i will try to do it manually with a screwdriver honestly just for the sake of prof michael because honestly I had zero faith that this would work like in my headI was like aint no way I will have as much or even close enough strenfth to spin the screwdriver. so when I tried i, I felt like I possessed the strength of Herculues. I had done it. it took time, sweat, tears (no not really teares) but, I DID IT. I felt so powerful and strong that I could move mountains with a lift of a finger, that I could expand a blackhole back into a star from its collapsed form. It felt, refreshing. Moreover, because I was getting a weird angle for screwing the screws in, I had to rotate the servo 90 degrees so its not in a weird angle anymore, felt like a revolouitnary discovery.
+
+But as almost every interactive media student knows, if things are going too well, something bad is on the way. I realized after screwing halfway through the piece and horn that screwing became considerably harder, like much harder, and it wasnt me getting fatigued. and then I realized it, I was using a smaller screwdriver than the size of the screw and I had grinded away the screw and now its impossible to push forward or pull backward. I tried so many screwdrivers, I genuinely truly hate how this place doesn't label their equipment and tools. why is it impossible for me tofind the right size screwdriver. At some point I was sick of losing servo horns, I had already lost 3, so I didn't give up oh this servo. I brought wire clippers, a hammer, and my Herculues strength. I clipped the screw and hammered it and saved the horn. This whole thing might sound useless but i swaer to god its moments like these that teach you. This particular sitaution trained my eye really well to spot correct sizes for screws without looking at a label. This is a skill I always wanted to learn.
+
+
+How I came up with a project you could accomplish with available resources
+
+-The project idea came from two things: a dragging robot in professor Michael's office and a YouTube Short of a robotic arm
+-I scouted Make Abu Dhabi as a makerspace with almost everything you needed, wood, 3D printers, tools, for 300 AED/month as a student
+-I adopted a stackable/LIFO prototyping approach: one joint at a time, code it, calibrate, then move to the next, keeping scope manageable
+-I started with cardboard, upgraded to wood you found at the makerspace, and planned to improve aesthetics only after the mechanism worked
+
+Problems I ran into and how you solved or worked around them
+
+-High-torque servos were heavier than expected, and my first cardboard was too flimsy, I used pen caps as makeshift stiffeners along the cardboard until better material arrived
+-I couldn't attach servo horns to wood properly: gluing first made screwing into the servo impossible, and gluing after was unstable, professor Michael corrected me that I should almost always screw the horn into the servo first
+-Drill assessments at the makerspace were inconsistently scheduled so I couldn't access the drill , professor Michael suggested doing it manually with a screwdriver, which I didn't believe would work but it did
+-I accidentally used a screwdriver smaller than the screw size and ground the head down until it was stuck, I used wire clippers and a hammer to save horns instead of losing it entirely
+
+Significant lessons learned
+
+-Hot glue is a temporary solution at best, not a reliable structural fix, especially for anything load-bearing or mechanical
+-Always screw the horn into the servo before attaching it to anything else; this is fundamental and you learned it the hard way
+-Manual tools can do more than you expect. drilling by hand through wood and a horn felt impossible until you actually did it
+-Using the wrong screwdriver size is a real and costly mistake; the experience trained my eye to identify correct screw sizes without labels, which is a genuinely useful skill
+-Working without tutorials forces deeper understanding, I had no reference for your exact mechanism at my scale, so every solution had to come from first principles
