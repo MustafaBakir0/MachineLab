@@ -189,22 +189,22 @@ But as almost every interactive media student knows, if things are going too wel
 
 How I came up with a project you could accomplish with available resources
 
--The project idea came from two things: a dragging robot in professor Michael's office and a YouTube Short of a robotic arm
--I scouted Make Abu Dhabi as a makerspace with almost everything you needed, wood, 3D printers, tools, for 300 AED/month as a student
--I adopted a stackable/LIFO prototyping approach: one joint at a time, code it, calibrate, then move to the next, keeping scope manageable
--I started with cardboard, upgraded to wood you found at the makerspace, and planned to improve aesthetics only after the mechanism worked
+- The project idea came from two things: a dragging robot in professor Michael's office and a YouTube Short of a robotic arm
+- I scouted Make Abu Dhabi as a makerspace with almost everything you needed, wood, 3D printers, tools, for 300 AED/month as a student
+- I adopted a stackable/LIFO prototyping approach: one joint at a time, code it, calibrate, then move to the next, keeping scope manageable
+- I started with cardboard, upgraded to wood you found at the makerspace, and planned to improve aesthetics only after the mechanism worked
 
 Problems I ran into and how you solved or worked around them
 
--High-torque servos were heavier than expected, and my first cardboard was too flimsy, I used pen caps as makeshift stiffeners along the cardboard until better material arrived
--I couldn't attach servo horns to wood properly: gluing first made screwing into the servo impossible, and gluing after was unstable, professor Michael corrected me that I should almost always screw the horn into the servo first
--Drill assessments at the makerspace were inconsistently scheduled so I couldn't access the drill , professor Michael suggested doing it manually with a screwdriver, which I didn't believe would work but it did
--I accidentally used a screwdriver smaller than the screw size and ground the head down until it was stuck, I used wire clippers and a hammer to save horns instead of losing it entirely
+- High-torque servos were heavier than expected, and my first cardboard was too flimsy, I used pen caps as makeshift stiffeners along the cardboard until better material arrived
+- I couldn't attach servo horns to wood properly: gluing first made screwing into the servo impossible, and gluing after was unstable, professor Michael corrected me that I should almost always screw the horn into the servo first
+- Drill assessments at the makerspace were inconsistently scheduled so I couldn't access the drill , professor Michael suggested doing it manually with a screwdriver, which I didn't believe would work but it did
+- I accidentally used a screwdriver smaller than the screw size and ground the head down until it was stuck, I used wire clippers and a hammer to save horns instead of losing it entirely
 
 Significant lessons learned
 
--Hot glue is a temporary solution at best, not a reliable structural fix, especially for anything load-bearing or mechanical
--Always screw the horn into the servo before attaching it to anything else; this is fundamental and you learned it the hard way
--Manual tools can do more than you expect. drilling by hand through wood and a horn felt impossible until you actually did it
--Using the wrong screwdriver size is a real and costly mistake; the experience trained my eye to identify correct screw sizes without labels, which is a genuinely useful skill
--Working without tutorials forces deeper understanding, I had no reference for your exact mechanism at my scale, so every solution had to come from first principles
+- Hot glue is a temporary solution at best, not a reliable structural fix, especially for anything load-bearing or mechanical
+- Always screw the horn into the servo before attaching it to anything else; this is fundamental and you learned it the hard way
+- Manual tools can do more than you expect. drilling by hand through wood and a horn felt impossible until you actually did it
+- Using the wrong screwdriver size is a real and costly mistake; the experience trained my eye to identify correct screw sizes without labels, which is a genuinely useful skill
+- Working without tutorials forces deeper understanding, I had no reference for your exact mechanism at my scale, so every solution had to come from first principles
